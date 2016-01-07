@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"DashDoc",
+		"GitGutter",
+		"Markdown Preview",
+		"Monokai - Spacegray",
+		"Package Control",
+		"SublimeLinter",
+		"Theme - itg.flat",
+		"Theme - Spacegray"
+	]
+}
